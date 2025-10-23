@@ -4,6 +4,16 @@ i. 🎯 Purpose of this Course:
 
 This course was designed to provide a deep understanding of Artificial Intelligence search algorithms and decision-making techniques. It focused on building theoretical knowledge and practical skills through structured lessons and projects.
 
+
+
+
+
+
+
+
+
+
+
 ii. 📚 What I Learned from this Course:
 
 Learned how to implement various AI search algorithms.
