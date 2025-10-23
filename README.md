@@ -1,36 +1,61 @@
-📘 Course/Project Report: Artificial IntelligenceThis course teaches Artificial 
+Skip to content
+Navigation Menu
+fahimahaque01
+Ai-Course
 
-i. 🎯 Purpose of this Course:
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+ 0 stars
+ 0 forks
+ 0 watching
+ 1 Branch
+ 0 Tags
+ Activity
+Public repository
+fahimahaque01/Ai-Course
+Name		
+FahiTalkder
+FahiTalkder
+Remove AI game implementations for CatchNumber, Chess, and TicTacToe,…
+e45ac6b
+ · 
+3 months ago
+AI Games
+Remove AI game implementations for CatchNumber, Chess, and TicTacToe,…
+3 months ago
+AI Tools Exploration
+Remove AI game implementations for CatchNumber, Chess, and TicTacToe,…
+3 months ago
+Algorithm Implementation
+Refactor comments in AlphaBheta.py for clarity and consistency, remov…
+3 months ago
+AIProjectSubmissionGuidelines_Razorshi.pdf
+first commit
+3 months ago
+readme.md
+Update
+3 months ago
+Repository files navigation
+README
+📘 Course/Project Report: Artificial Intelligence
+i. 🎯 Purpose of this Course
+This course was designed to provide a deep understanding of Artificial Intelligence search algorithms and decision-making techniques. It focused on building theoretical knowledge and practical skills through structured lessons and projects
 
-This course was designed to provide a deep understanding of Artificial Intelligence search algorithms and decision-making techniques. It focused on building theoretical knowledge and practical skills through structured lessons and projects.
-
-
-
-
-
-
-
-
-
-
-
-ii. 📚 What I Learned from this Course:
-
-Learned how to implement various AI search algorithms.
-Understood key concepts like A*, AO*, minimax, alpha-beta pruning.
-Built mini-projects using search strategies.
-Developed practical coding and problem-solving skills.
-
+ii. 📚 What I Learned from this Course
+Learned how to implement various AI search algorithms
+Understood key concepts like A*, AO*, minimax, alpha-beta pruning
+Built mini-projects using search strategies
+Developed practical coding and problem-solving skills
 iii. ⏱️ Duration of this Course
-
 Total Duration: 6 Months
-
 iv. 👨‍🏫 Supervisor / Course Conducted By
-
 This course was conducted by [Razorshi Prozzwal Talukder] under the supervision of [North east university Bangladesh].
 
-v. ⚙️ How the Algorithm Works:
-
+v. ⚙️ How the Algorithm Works
 Each algorithm solves search or game problems in a unique way:
 
 A*: Uses cost + heuristic to find shortest path.
@@ -41,9 +66,7 @@ Alpha-Beta Pruning: Optimizes minimax by pruning irrelevant branches.
 Minimax: Decision rule for minimizing the possible loss.
 BFS: Explores level by level.
 DFS: Explores as deep as possible before backtracking.
-
-vi. 🚀 Applications of these Algorithms:
-
+vi. 🚀 Applications of these Algorithms
 A*: GPS Navigation, Pathfinding in Games
 AO*: Problem solving in logic and knowledge bases
 Beam Search: NLP tasks like machine translation
@@ -52,9 +75,7 @@ Alpha-Beta Pruning: Chess, Tic-tac-toe, AI Games
 Minimax: Strategic AI in competitive games
 BFS: Shortest path in unweighted graphs
 DFS: Solving mazes, topological sorting
-
-vii. 🎮 AI Games Implemented:
-
+vii. 🎮 AI Games Implemented
 As part of the course, the following games were developed using AI algorithms:
 
 ♟️ Chess AI
@@ -72,7 +93,6 @@ Player (White) plays first, then AI (Black) responds
 Click on pieces to move, AI makes optimal move using pruning
 https://drive.google.com/file/d/10cgrNEgHd07mg888X9_h7PptDKiBszx1/view?usp=drive_link
 
-
 ❌⭕ Tic-Tac-Toe
 Algorithm Used: Minimax
 
@@ -87,7 +107,6 @@ Run the script, a simple GUI will appear
 Click a cell to make your move, AI responds instantly
 The game ends when someone wins or board is full
 https://drive.google.com/file/d/1DYHT6vveI1p0aXPUDAPc-Nb-nSvfAftM/view?usp=drive_link
-
 
 🧩 Number Caching
 Algorithm Used: A*
@@ -105,9 +124,7 @@ https://drive.google.com/file/d/1-Pmr59XkZbk0-IK-ufFMFvUE2jnDs8um/view?usp=drive
 
 Each game demonstrates a real-world application of the respective algorithms.
 
-
-viii. 📊 Time & Space Complexity:
-
+viii. 📊 Time & Space Complexity
 Algorithm	Time Complexity	Space Complexity	Notes
 A* Search	O(b^d)	O(b^d)	b = branching factor, d = depth of goal
 AO* Search	Exponential (worst)	Exponential (worst)	Depends on graph structure
@@ -117,17 +134,12 @@ Alpha-Beta Pruning	O(b^d) / O(b^(d/2))	O(b * d)	Best-case with perfect pruning
 Minimax Algorithm	O(b^d)	O(b * d)	b = branching factor, d = depth
 Breadth-First Search (BFS)	O(b^d)	O(b^d)	Complete but memory intensive
 Depth-First Search (DFS)	O(b^m)	O(b * m)	m = max depth
-
-
-ix. 🖼️ Input & Output Examples:
-
+ix. 🖼️ Input & Output Examples
 ✅ Input Image:
 🎯 Output Image:
 Note: Place your screenshots in a folder named images/ inside your project directory.
 
-
-x. 🛠️ How to Run the Project:
-
+x. 🛠️ How to Run the Project
 # Clone the repo
 git clone https://github.com/your-username/ai-algorithms-project.git
 
@@ -152,8 +164,26 @@ python algorithm.py
 
 
 ---
-
 👨‍💻 Author
-
 [Fahima Haque Talukder Jely] 📧 Email: [fahimafahi@gmail.com] 🔗 GitHub: [https://github.com/your-username]
 
+Releases
+No releases published
+Packages
+No packages published
+Languages
+Python
+100.0%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+1 branch found
