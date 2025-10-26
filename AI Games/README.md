@@ -4,20 +4,6 @@
 
 ---
 
-## 🧩 Table of Contents
-1. [Overview](#overview)
-2. [Game 1 – Tic Tac Toe](#game-1--tic-tac-toe)
-3. [Game 2 – Connect Four](#game-2--connect-four)
-4. [Game 3 – Chess](#game-3--chess)
-5. [Algorithms Used](#algorithms-used)
-6. [Applications](#applications)
-7. [Complexity Analysis](#complexity-analysis)
-8. [Installation](#installation)
-9. [How to Run](#how-to-run)
-10. [Screenshots](#screenshots)
-11. [License](#license)
-
----
 
 ## 🧠 Overview
 
@@ -82,56 +68,6 @@ A simplified Chess AI that can predict the next move using search algorithms. It
 2. Evaluates board using a scoring function.
 3. Uses Minimax to select the optimal move.
 4. Alpha-Beta Pruning reduces unnecessary search.
-
----
-
-## ⚙️ Algorithms Used
-
-| Algorithm | Description | Applications |
-|------------|--------------|---------------|
-| **Breadth-First Search (BFS)** | Explores all nodes level by level. | Pathfinding, network traversal |
-| **Depth-First Search (DFS)** | Explores as deep as possible before backtracking. | Maze solving, backtracking |
-| **Depth-Limited Search (DLS)** | DFS with a depth cutoff limit. | Game trees with limited depth |
-| **Iterative Deepening Search (IDS)** | Combines BFS & DFS; increases depth gradually. | Optimal pathfinding |
-| **Best-First Search** | Expands most promising nodes based on heuristic. | Route planning, A* Search |
-| **Beam Search** | Similar to Best-First but with limited width. | Machine translation, speech recognition |
-| **Bidirectional Search** | Searches from both start & goal nodes simultaneously. | Shortest path problems |
-| **Hill Climbing** | Chooses moves that increase heuristic value. | Optimization problems |
-| **Minimax Algorithm** | Predicts opponent’s move and selects best response. | Game AI |
-| **Alpha-Beta Pruning** | Optimizes Minimax by skipping useless branches. | Game tree search |
-
----
-
-## 🧩 Applications
-
-- Game AI (Tic Tac Toe, Chess, Connect Four)
-- Decision Making Systems
-- Robotics Pathfinding
-- Puzzle Solvers (8-puzzle, Sudoku)
-- Optimization and Planning Problems
-
----
-
-## 📊 Complexity Analysis
-
-| Algorithm | Time Complexity | Space Complexity |
-|------------|----------------|------------------|
-| BFS | O(b^d) | O(b^d) |
-| DFS | O(b^m) | O(bm) |
-| DLS | O(b^l) | O(bl) |
-| IDS | O(b^d) | O(bd) |
-| Best-First | O(b^d) | O(b^d) |
-| Beam Search | O(b × k) | O(b × k) |
-| Bidirectional Search | O(b^(d/2)) | O(b^(d/2)) |
-| Hill Climbing | O(b^m) | O(bm) |
-| Minimax | O(b^m) | O(bm) |
-| Alpha-Beta Pruning | O(b^(m/2)) | O(bm) |
-
-Where:  
-- **b** = branching factor  
-- **d** = depth of goal node  
-- **m** = maximum depth of tree  
-- **k** = beam width  
 
 ---
 
