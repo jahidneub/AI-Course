@@ -254,7 +254,7 @@ Output: Optimal value using Alpha-Beta Pruning: 6
 ---
 
 ## 🧾 Author
-**Zarin Tasnim Uddin Jeba**  
+**JAHID HASAN ONI***  
 📧 _AI Algorithm Implementation Project_
 
 ---
