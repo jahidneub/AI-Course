@@ -81,6 +81,7 @@ This makes the AI smart enough to block winning moves and create opportunities t
 ## 📸 Screenshots
 
 ![Connect Four Screenshot](Screenshot1.png)
+![Connect Four Screenshot](Screenshot2.png)
 
 *Click a column to drop your piece. The AI plays instantly after your turn.*
 
