@@ -87,8 +87,9 @@ python tic_tac_toe.py
 ---
 
 ## 📸 Screenshots
-![tic tac toc Screenshot](Screenshot1.png)
-![tic tac toc Screenshot](Screenshot2.png)
+
+![Connect Four Screenshot](Screenshot1.png)
+![Connect Four Screenshot](Screenshot2.png)
 (screenshot2.png)
 *(Include screenshots of the game window, X/O placements, win/draw screen, and restart button.)*
 
