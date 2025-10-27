@@ -1,14 +1,6 @@
 <!-- ──────────────────────────────────────────────── -->
 <h1 align="center">🤖 Artificial Intelligence Course Project</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/AI-Algorithms-orange?logo=openai&logoColor=white" alt="AI Badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status Badge"/>
-  <img src="https://img.shields.io/github/license/fahimahaque01/Ai-Course?color=green" alt="License Badge"/>
-</p>
-
-<p align="center">
   <b>✨ A course project showcasing key Artificial Intelligence algorithms with real-world game implementations.</b><br>
   <i>Developed under the supervision of North East University Bangladesh.</i>
 </p>
@@ -69,65 +61,6 @@ It focused on both theoretical learning and practical implementation through str
 | **DFS** | Maze Solving, Topological Sorting |
 
 ---
-
-## 🧠 AI Game Implementations
-
-Each of the following mini-projects demonstrates how AI algorithms work in real-world decision-making and problem-solving.
-
----
-###  📚 Libraries Required: pygame, numpy
-
-## ♟️ **Chess AI**
-
-**Algorithm Used:** Alpha-Beta Pruning  
-**Libraries Required:** `pygame`, `numpy`
-
-### 🕹️ How to Play:
-1. Launch the game using the command below:  
-   ```bash
-   python chess_ai.py
-
-2. Player (White) moves first.
-3. AI (Black) responds with an optimal move using pruning.
-4. Click on any piece to move it.
-5. The AI will calculate and respond intelligently.
-
-   
------
-
-## ❌⭕ Tic-Tac-Toe (Minimax Algorithm)
-
-### Algorithm Used: Minimax
-
-### Libraries Required: tkinter
-
-### 🕹️ How to Run:
-	```bash
-	python tictactoe.py	
-
-## 🎮 How to Play:
-
-- A simple GUI will appear.
-- Click any cell to make your move.
-- The AI instantly responds with its turn.
-- The game ends when someone wins 🏆 or the board is full.
-
- ------
-
-## 🧩 Number Caching (Puzzle Solver)
-
-	### Algorithm Used: A* Search
-	### Libraries Required: heapq, numpy
-	
-## ⚙️ How to Run:
-
-		python puzzle_solver.py
-
-## 🧠 How to Play:
-
-1. Open the script and set your initial and goal states.
-2. The algorithm will calculate the optimal steps to reach the goal.
-3. Watch the step-by-step output directly in your terminal.
 
 
 ## 🧮 Algorithm Performance Summary
